@@ -9,7 +9,7 @@
 <!-- Holographic Typing Animation -->
 <div style="margin-top: -20px; text-align:center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%E2%9A%A1+Welcome+to+My+Digital+Universe!+%E2%9A%A1;%F0%9F%9A%80+Building+Enterprise-Grade+APIs;%F0%9F%8E%AF+ASP.NET+Core+%7C+Clean+Architecture+%7C+SOLID;%F0%9F%94%A5+Turning+Coffee+into+Scalable+Code!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%E2%9A%A1+Welcome+to+My+Digital+Universe!+%E2%9A%A1;%F0%9F%9A%80+Building+Enterprise-Grade+APIs;%F0%9F%8E%AF+ASP.NET+Core+%7C+Onion+Architecture+%7C+SOLID;%F0%9F%94%A5+Turning+Coffee+into+Scalable+Code!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -113,7 +113,7 @@
 
 ### 📝 **Professional Summary**
 
-> **Passionate .NET Backend Developer with over 3 years of experience designing and developing scalable web APIs using ASP.NET Core and Entity Framework.** Proficient in clean architecture, authentication, database design, and deploying secure, maintainable systems. Seeking to leverage skills in backend development to contribute to modern, efficient, and reliable solutions.
+> **Passionate .NET Backend Developer with over 3 years of experience designing and developing scalable web APIs using ASP.NET Core and Entity Framework.** Proficient in onion architecture, authentication, database design, and deploying secure, maintainable systems. Seeking to leverage skills in backend development to contribute to modern, efficient, and reliable solutions.
 
 <br/>
 
@@ -121,7 +121,7 @@
 
 <img src="https://img.shields.io/badge/🎯-ASP.NET_Core_Mastery-512BD4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🔐-Security_&_Auth-FF0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏗️-Clean_Architecture-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏗️-Onion_Architecture-00D9FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/⚡-High_Performance_APIs-FFD700?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🧠-Problem_Solving-7B42FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/💾-Database_Expert-4CAF50?style=for-the-badge"/>
@@ -185,7 +185,7 @@
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🎨-Clean_Architecture-00D9FF?style=for-the-badge&logo=codacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎨-Onion_Architecture-00D9FF?style=for-the-badge&logo=codacy&logoColor=white"/>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/⚡-Performance_Matters-FFD700?style=for-the-badge&logo=lightning&logoColor=black"/>
@@ -357,7 +357,7 @@
 
 <br/>
 
-**🏗️ Clean Architecture**
+**🏗️ Onion Architecture**
 <br/>
 ![](https://geps.dev/progress/90?dangerColor=7B42FF&warningColor=00D9FF&successColor=7B42FF)
 <br/>
@@ -1516,6 +1516,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
