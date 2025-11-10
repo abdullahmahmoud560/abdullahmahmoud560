@@ -1512,9 +1512,8 @@ A comprehensive REST API for managing sports academies, including player registr
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=abdullahmahmoud560&label=Total%20Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-
 </div>
+
 
 
 
