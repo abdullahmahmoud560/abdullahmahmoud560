@@ -282,6 +282,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+
 ### 💭 **My Philosophy**
 
 > **"Code is not just instructions for machines—it's communication with future developers, including your future self."**
@@ -327,49 +328,67 @@
 </tr>
 </table>
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
 ### 💪 **Expertise Breakdown**
 
 <br/>
 
-**🎯 ASP.NET Core APIs**  
-![](https://geps.dev/progress/100?dangerColor=7B42FF&warningColor=00D9FF&successColor=00D9FF)  
+**🎯 ASP.NET Core APIs**
+<br/>
+![](https://geps.dev/progress/100?dangerColor=7B42FF&warningColor=00D9FF&successColor=00D9FF)
+<br/>
 <sub>⭐⭐⭐⭐⭐ Master Level | 15+ Projects</sub>
 
 <br/>
 
-**💾 Entity Framework Core**  
-![](https://geps.dev/progress/95?dangerColor=7B42FF&warningColor=00D9FF&successColor=00D9FF)  
+**💾 Entity Framework Core**
+<br/>
+![](https://geps.dev/progress/95?dangerColor=7B42FF&warningColor=00D9FF&successColor=00D9FF)
+<br/>
 <sub>⭐⭐⭐⭐⭐ Advanced | 12+ Projects</sub>
 
 <br/>
 
-**🏗️ Onion Architecture**  
-![](https://geps.dev/progress/90?dangerColor=7B42FF&warningColor=00D9FF&successColor=7B42FF)  
+**🏗️ Onion Architecture**
+<br/>
+![](https://geps.dev/progress/90?dangerColor=7B42FF&warningColor=00D9FF&successColor=7B42FF)
+<br/>
 <sub>⭐⭐⭐⭐☆ Expert | 10+ Projects</sub>
 
 <br/>
 
-**🔒 Security & Authentication**  
-![](https://geps.dev/progress/100?dangerColor=FF6B6B&warningColor=FFA500&successColor=00D9FF)  
+**🔒 Security & Authentication**
+<br/>
+![](https://geps.dev/progress/100?dangerColor=FF6B6B&warningColor=FFA500&successColor=00D9FF)
+<br/>
 <sub>⭐⭐⭐⭐⭐ Master Level | 8+ Projects</sub>
 
 <br/>
 
-**🗄️ Database Design**  
-![](https://geps.dev/progress/95?dangerColor=7B42FF&warningColor=00D9FF&successColor=00D9FF)  
+**🗄️ Database Design**
+<br/>
+![](https://geps.dev/progress/95?dangerColor=7B42FF&warningColor=00D9FF&successColor=00D9FF)
+<br/>
 <sub>⭐⭐⭐⭐⭐ Advanced | 20+ Projects</sub>
 
 <br/>
 
-**🐳 Docker & DevOps**  
-![](https://geps.dev/progress/75?dangerColor=7B42FF&warningColor=FFA500&successColor=00D9FF)  
+**🐳 Docker & DevOps**
+<br/>
+![](https://geps.dev/progress/75?dangerColor=7B42FF&warningColor=FFA500&successColor=00D9FF)
+<br/>
 <sub>⭐⭐⭐⭐☆ Proficient | 5+ Projects</sub>
-## Tech Stack
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
-
+  
 ### ⚔️ **Core Technologies**
 
 <table>
@@ -1401,6 +1420,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
