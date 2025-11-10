@@ -446,7 +446,7 @@
 <br><sub>Primary Language</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="65" height="65" style="display: block; margin: auto;" />
+<img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="65" height="65"/>
 <br><strong>.NET 8/9</strong>
 <br><sub>Core Framework</sub>
 </td>
@@ -1510,6 +1510,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
