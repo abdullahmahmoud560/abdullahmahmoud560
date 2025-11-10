@@ -1502,39 +1502,7 @@ A comprehensive REST API for managing sports academies, including player registr
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="700"/>
-
 <br/><br/>
-
----
-
-<br/>
-
-### 🎯 **Fun Fact**
-
-```javascript
-const developer = {
-    name: "Abdullah Mahmoud",
-    role: "Backend Developer",
-    languages: ["C#", "SQL", "JavaScript"],
-    currentlyLearning: [".NET 9", "Microservices", "Cloud Architecture"],
-    funFact: "I can turn coffee ☕ into clean, scalable code 💻",
-    motto: "Write code that humans can read! 📖"
-};
-
-// Life = Code + Coffee + Commits
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-<br/>
-
-### 🌟 **Thank You for Visiting!**
-
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
 
 <p>Every visitor makes my day! Thanks for stopping by 😊</p>
@@ -1557,4 +1525,5 @@ while (alive) {
 <img src="https://komarev.com/ghpvc/?username=abdullahmahmoud560&label=Total%20Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 
 </div>
+
 
