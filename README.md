@@ -267,12 +267,6 @@
 </tr>
 </table>
 
-<br/>
-
-> 💡 **Life Motto:** *"Code is poetry written in logic. Make it beautiful, make it work, make it scale."*
-> 
-> ☕ **Fun Fact:** I debug with coffee and deploy with confidence! 🚀
-
 </div>
 
 <br/>
@@ -1516,6 +1510,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
