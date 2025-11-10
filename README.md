@@ -587,7 +587,7 @@
 <br><strong>JWT Auth</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/OAuth_logo.svg/1200px-OAuth_logo.svg.png" alt="OAuth 2.0" width="65" height="65"/>
+<img src="https://logo.svgcdn.com/l/oauth.png" alt="OAuth 2.0" width="65" height="65" />
 <br><strong>OAuth 2.0</strong>
 </td>
 <td align="center" width="25%">
@@ -620,7 +620,7 @@
 <br><strong>Postman</strong>
 </td>
 <td align="center" width="25%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Swagger_logo.svg" alt="Swagger" width="65" height="65"/>
+<img src="https://logo.svgcdn.com/logos/swagger.png" alt="Swagger" width="65" height="65" />
 <br><strong>Swagger</strong>
 </td>
 </tr>
@@ -1509,6 +1509,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
