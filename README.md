@@ -1296,19 +1296,18 @@ A comprehensive REST API for managing sports academies, including player registr
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahmahmoud560&custom_title=📊%20Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=7B42FF&point=FFFFFF&area=true&hide_border=true&area_color=7B42FF" alt="Contribution Graph" width="100%"/>
 
 <br/>
-
 ### 💻 **Language Distribution**
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmahmoud560&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=7B42FF&langs_count=10" alt="Top Languages" width="100%"/>
+<img src="https://github-readme-stats-gamma-gold-32.vercel.app/api/top-langs/?username=abdullahmahmoud560&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=7B42FF&langs_count=10" alt="Top Languages" width="100%"/>
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmahmoud560&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=7B42FF&langs_count=6" alt="Language Stats" width="100%"/>
+<img src="https://github-readme-stats-gamma-gold-32.vercel.app/api/top-langs/?username=abdullahmahmoud560&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=7B42FF&langs_count=6" alt="Language Stats" width="100%"/>
 
 </td>
 </tr>
@@ -1321,6 +1320,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahmahmoud560&theme=radical" alt="Profile Summary" width="100%"/>
 
 <br/>
+
 
 <table>
 <tr>
@@ -1513,6 +1513,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
