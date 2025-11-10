@@ -28,17 +28,6 @@
   </a>
 </p>
 
-<br/>
-
-<!-- Advanced Stats Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdullahmahmoud560&label=👁️+Profile+Views&color=blueviolet&style=for-the-badge&abbreviated=true" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abdullahmahmoud560?label=🤝+Followers&style=for-the-badge&color=00D9FF&labelColor=1a1a1a&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/abdullahmahmoud560?label=⭐+Total+Stars&style=for-the-badge&color=FFD700&labelColor=1a1a1a&logo=github" alt="Stars"/>
-</p>
-
-<br/>
-
 <!-- Animated Tech GIF Banner -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -1568,3 +1557,4 @@ while (alive) {
 <img src="https://komarev.com/ghpvc/?username=abdullahmahmoud560&label=Total%20Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 
 </div>
+
