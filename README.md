@@ -76,7 +76,7 @@
 </td>
 <td width="70%">
 <strong>Name</strong><br/>
-<sub>Abdullah Mahmoud</sub>
+<sub>Abdullah Mahmoud Abdel Mohsen Ahmed</sub>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@
 </td>
 <td>
 <strong>Role</strong><br/>
-<sub>Senior Backend Developer</sub>
+<sub>Backend Developer (.NET)</sub>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@
 </td>
 <td>
 <strong>Location</strong><br/>
-<sub>📍 Cairo, Egypt</sub>
+<sub>📍 Cairo – 15 May City, Egypt</sub>
 </td>
 </tr>
 <tr>
@@ -102,11 +102,26 @@
 <img src="https://img.icons8.com/fluency/96/company.png" width="60"/>
 </td>
 <td>
-<strong>Company</strong><br/>
-<sub>Ahmed Bin Mohamed Al Mousa Co.</sub>
+<strong>Current Company</strong><br/>
+<sub>Ahmed Bin Mohamed Al Mousa Company</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/clock.png" width="60"/>
+</td>
+<td>
+<strong>Experience</strong><br/>
+<sub>3+ Years in Backend Development</sub>
 </td>
 </tr>
 </table>
+
+<br/>
+
+### 📝 **Professional Summary**
+
+> **Passionate .NET Backend Developer with over 3 years of experience designing and developing scalable web APIs using ASP.NET Core and Entity Framework.** Proficient in clean architecture, authentication, database design, and deploying secure, maintainable systems. Seeking to leverage skills in backend development to contribute to modern, efficient, and reliable solutions.
 
 <br/>
 
@@ -229,6 +244,33 @@
 <strong>Document Well</strong>
 <br/>
 <sub>Future-Proof Code</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💼 **Soft Skills**
+
+<table>
+<tr>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/🧩_Problem_Solving-Analytical_Thinking-512BD4?style=flat-square"/>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/🤝_Team_Collaboration-Effective_Communication-00D9FF?style=flat-square"/>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/💬_Communication-Clear_&_Concise-7B42FF?style=flat-square"/>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/⏰_Time_Management-Efficient-4CAF50?style=flat-square"/>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/🔄_Adaptability-Flexible-FF6B6B?style=flat-square"/>
+</td>
+<td align="center" width="16.66%">
+<img src="https://img.shields.io/badge/👁️_Attention_to_Detail-Precise-FFA500?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -412,28 +454,41 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
 <br><strong>C#</strong>
 <br><sub>Primary Language</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="65" height="65" />
 <br><strong>.NET 8/9</strong>
 <br><sub>Core Framework</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
 <br><strong>REST APIs</strong>
 <br><sub>API Architecture</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="65" height="65" />
 <br><strong>ASP.NET Core</strong>
 <br><sub>Web Framework</sub>
 </td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/96/code.png" width="65" height="65" />
+<br><strong>LINQ</strong>
+<br><sub>Query Language</sub>
+</td>
 </tr>
 </table>
+
+<br/>
+
+### 📚 **Languages & Syntax**
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINQ-Query_Expressions-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Async/Await-Asynchronous_Programming-00D9FF?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
 <br/>
 
@@ -499,14 +554,42 @@
 
 <br/>
 
-### 🏗️ **Architecture & Patterns**
+### 🏗️ **Architecture & Best Practices**
 
-<img src="https://img.shields.io/badge/🎯_Clean_Architecture-SOLID_Principles-blueviolet?style=for-the-badge&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/🧅_Onion_Architecture-Layered_Design-00D9FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/💉_Dependency_Injection-IoC_Container-7B42FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🎨_Design_Patterns-Gang_of_Four-FF6B6B?style=for-the-badge&logoColor=white"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎯_SOLID_Principles-Clean_Code-blueviolet?style=for-the-badge&logoColor=white"/>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💉_Dependency_Injection-IoC-7B42FF?style=for-the-badge&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center">
 <img src="https://img.shields.io/badge/📦_Repository_Pattern-Data_Access-4CAF50?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🔄_CQRS-Command_Query-FFA500?style=for-the-badge&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🔀_Separation_of_Concerns-Modular-FF6B6B?style=for-the-badge&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/📋_DTOs_&_ViewModels-Data_Transfer-FFA500?style=for-the-badge&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🔧 **Additional Tools & Libraries**
+
+<img src="https://img.shields.io/badge/AutoMapper-Object_Mapping-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/API_Versioning-Version_Control-00D9FF?style=for-the-badge&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/Middleware-Custom_Handlers-7B42FF?style=for-the-badge&logo=code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cursor-AI_Editor-4CAF50?style=for-the-badge&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-Basic_Knowledge-FF6B6B?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
 <br/><br/>
 
@@ -535,12 +618,35 @@
 
 <br/>
 
-### 🧪 **Testing & Quality**
+### 🧪 **Testing & Debugging**
 
-<img src="https://img.shields.io/badge/xUnit-Testing_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/Integration_Tests-API_Testing-00D9FF?style=for-the-badge&logo=testing-library&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unit_Tests-TDD_Approach-7B42FF?style=for-the-badge&logo=testing-library&logoColor=white"/>
-<img src="https://img.shields.io/badge/Code_Quality-SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/test-passed.png" width="65" height="65" alt="xUnit"/>
+<br><strong>xUnit</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/test-results.png" width="65" height="65" alt="MSTest"/>
+<br><strong>MSTest</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" width="65" height="65" alt="Postman"/>
+<br><strong>Postman</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/swagger.png" width="65" height="65" alt="Swagger"/>
+<br><strong>Swagger</strong>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Unit_Testing-xUnit_/_MSTest-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Integration_Testing-API_Testing-00D9FF?style=for-the-badge&logo=testing-library&logoColor=white"/>
+<img src="https://img.shields.io/badge/Logging-Serilog_/_NLog-7B42FF?style=for-the-badge&logo=logging&logoColor=white"/>
+<img src="https://img.shields.io/badge/Monitoring-Logging_&_Debugging-4CAF50?style=for-the-badge&logo=monitoring&logoColor=white"/>
 
 <br/><br/>
 
@@ -571,7 +677,9 @@
 
 <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
 
-📅 **Jan 2025 - Present**
+📅 **01/2025 - Present**
+
+📍 **Saudi Arabia**
 
 </td>
 <td width="70%" valign="top">
@@ -580,26 +688,36 @@
 
 #### 🚛 **Customs Clearance System** - Enterprise Solution
 
-Leading the backend development of a comprehensive customs clearance platform that streamlines international trade operations.
+Leading backend development for a comprehensive customs clearance platform that streamlines international trade operations.
 
 **🎯 Key Achievements:**
 
-```typescript
-✅ Architected & built 25+ RESTful API endpoints
-✅ Implemented JWT-based authentication system
-✅ Designed role-based authorization (RBAC) framework
-✅ Optimized database queries (40% performance boost)
-✅ Applied Clean Architecture & SOLID principles
-✅ Integrated real-time notifications system
-```
+<table>
+<tr>
+<td width="50%">
+• Built RESTful APIs using ASP.NET Core Web API<br/>
+• Applied Onion Architecture & SOLID principles<br/>
+• Integrated ASP.NET Core Identity<br/>
+• Used MySQL with Entity Framework Core<br/>
+• Designed core system modules
+</td>
+<td width="50%">
+• Ensured code quality & best practices<br/>
+• Achieved 99.9% uptime<br/>
+• Reduced API response time by 30%<br/>
+• Implemented secure authentication<br/>
+• Optimized database performance
+</td>
+</tr>
+</table>
 
 **💻 Tech Stack:**
 <br/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-web-tokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Identity-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Onion_Architecture-00D9FF?style=flat-square"/>
 
 </td>
 </tr>
@@ -618,7 +736,9 @@ Leading the backend development of a comprehensive customs clearance platform th
 
 <img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge"/>
 
-📅 **Jun 2025 - Oct 2025**
+📅 **06/2025 - 10/2025**
+
+📍 **Riyadh, Saudi Arabia (Remote)**
 
 </td>
 <td width="70%" valign="top">
@@ -627,18 +747,28 @@ Leading the backend development of a comprehensive customs clearance platform th
 
 #### 📁 **Law & Case Management System** - Legal Tech Solution
 
-Developed a cutting-edge law firm management platform with AI-powered features and Microsoft ecosystem integration.
+Created a comprehensive law firm management platform where clients can submit and track legal cases with advanced features.
 
 **🎯 Key Achievements:**
 
-```typescript
-✅ Built complete case management REST API
-✅ Integrated Microsoft Graph API for Office 365
-✅ Implemented OpenAI GPT for smart case summaries
-✅ Automated email & calendar synchronization
-✅ Document management with version control
-✅ Real-time collaboration features
-```
+<table>
+<tr>
+<td width="50%">
+• Built complete case management REST API<br/>
+• Integrated Microsoft Graph API<br/>
+• Implemented Outlook integration<br/>
+• Automated email & calendar sync<br/>
+• Document management system
+</td>
+<td width="50%">
+• OpenAI integration for summaries<br/>
+• Real-time case tracking<br/>
+• Secure client portal<br/>
+• Role-based access control<br/>
+• Performance optimization
+</td>
+</tr>
+</table>
 
 **💻 Tech Stack:**
 <br/>
@@ -646,7 +776,7 @@ Developed a cutting-edge law firm management platform with AI-powered features a
 <img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/>
 
 </td>
 </tr>
@@ -659,67 +789,219 @@ Developed a cutting-edge law firm management platform with AI-powered features a
 <td width="30%" align="center" valign="top">
 <img src="https://img.icons8.com/fluency/96/code.png" width="80"/>
 
-### 🚀 Side Projects
+### 🎓 Graduation Project
 
-**Freelance Developer**
+**Backend Developer (.NET Core)**
 
-<img src="https://img.shields.io/badge/Status-Ongoing-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 
-📅 **Continuous**
+📅 **09/2024 - 06/2025**
 
 </td>
 <td width="70%" valign="top">
 
-### 💡 **Freelance & Academic Projects**
+### 🎓 **AI-Powered Academic Guidance System**
 
-#### 🌟 **Diverse Portfolio of Solutions**
+Developed RESTful APIs using ASP.NET Core and Entity Framework Core (MySQL) for a multilingual platform.
 
-Building innovative solutions across multiple domains, from e-commerce to education technology.
-
-**🎯 Project Categories:**
+**🎯 Key Achievements:**
 
 <table>
 <tr>
 <td width="50%">
-
-**🛒 E-Commerce Platforms**
-- Payment gateway integration
-- Order management systems
-- Inventory tracking APIs
-- Customer loyalty programs
-
-**📚 Educational Systems**
-- Student management platforms
-- Online learning APIs
-- Grade tracking systems
-- Attendance management
-
+• Implemented JWT authentication<br/>
+• Role-based authorization<br/>
+• Applied Onion Architecture<br/>
+• Integrated Python chatbot API<br/>
+• Collaborated with Angular team
 </td>
 <td width="50%">
+• Improved data retrieval by 25%<br/>
+• Multilingual platform support<br/>
+• Clean code architecture<br/>
+• Comprehensive API documentation<br/>
+• Performance optimization
+</td>
+</tr>
+</table>
 
-**⚽ Sports Management**
-- Academy management APIs
-- Player registration systems
-- Schedule & booking systems
-- Performance analytics
-
-**🤖 AI-Powered Solutions**
-- Academic guidance systems
-- Smart recommendation engines
-- Natural language processing
-- Data analytics dashboards
+**💻 Tech Stack:**
+<br/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-web-tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 </td>
 </tr>
 </table>
 
-**💻 Technologies Used:**
 <br/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/football2.png" width="80"/>
+
+### ⚽ Project
+
+**Backend Developer**
+
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge"/>
+
+📅 **03/2025 - 05/2025**
+
+📍 **Remote**
+
+</td>
+<td width="70%" valign="top">
+
+### ⚽ **Sports Academy & Activities Management System**
+
+Designed and implemented a Web API using ASP.NET Core 8 with clean layered architecture.
+
+**🎯 Key Achievements:**
+
+<table>
+<tr>
+<td width="50%">
+• Applied clean layered architecture<br/>
+• Utilized Entity Framework Core<br/>
+• API documentation with Swagger<br/>
+• Used C#, LINQ, and Git<br/>
+• RESTful API design
+</td>
+<td width="50%">
+• Reduced manual scheduling by 30%<br/>
+• Automated activity management<br/>
+• User-friendly API endpoints<br/>
+• Comprehensive documentation<br/>
+• Performance optimization
+</td>
+</tr>
+</table>
+
+**💻 Tech Stack:**
+<br/>
+<img src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/shopping-cart.png" width="80"/>
+
+### 🛒 Freelance
+
+**Backend Developer**
+
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge"/>
+
+📅 **03/2024 - 04/2025**
+
+📍 **Remote**
+
+</td>
+<td width="70%" valign="top">
+
+### 🛒 **E-commerce Website (Electronics Store)**
+
+Created a complete backend system using ASP.NET Core Web API for an electronics e-commerce platform.
+
+**🎯 Key Achievements:**
+
+<table>
+<tr>
+<td width="50%">
+• Product management system<br/>
+• Category filtering<br/>
+• User cart functionality<br/>
+• Order processing<br/>
+• Secure authentication/authorization
+</td>
+<td width="50%">
+• JWT implementation<br/>
+• Payment workflow simulation<br/>
+• Entity Framework Core<br/>
+• RESTful API design<br/>
+• Database optimization
+</td>
+</tr>
+</table>
+
+**💻 Tech Stack:**
+<br/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-web-tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="30%" align="center" valign="top">
+<img src="https://img.icons8.com/fluency/96/book.png" width="80"/>
+
+### 📚 Freelance
+
+**Backend Developer**
+
+<img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge"/>
+
+📅 **06/2023 - 09/2023**
+
+📍 **Remote**
+
+</td>
+<td width="70%" valign="top">
+
+### 📚 **Educational Platform Project**
+
+Developed a RESTful API for online learning using ASP.NET Core Web API and Entity Framework Core.
+
+**🎯 Key Achievements:**
+
+<table>
+<tr>
+<td width="50%">
+• User authentication system<br/>
+• Role-based access (Admins, Teachers, Students)<br/>
+• JWT implementation<br/>
+• Course management endpoints<br/>
+• Lesson management
+</td>
+<td width="50%">
+• Quiz system endpoints<br/>
+• User progress tracking<br/>
+• SQL Server integration<br/>
+• Clean code architecture<br/>
+• Swagger documentation
+</td>
+</tr>
+</table>
+
+**💻 Tech Stack:**
+<br/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON-web-tokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/>
 
 </td>
 </tr>
@@ -731,19 +1013,137 @@ Building innovative solutions across multiple domains, from e-commerce to educat
 
 ### 📈 **Career Growth Timeline**
 
-```mermaid
-gantt
-    title My Professional Journey
-    dateFormat YYYY-MM
-    section Career
-    Freelance Projects     :2022-01, 2025-11
-    AARL Company          :2025-06, 2025-10
-    Ahmed Bin Mohamed Al Mousa :active, 2025-01, 2025-11
-    section Skills
-    Learning .NET         :2022-01, 2023-06
-    Mastering APIs        :2023-06, 2024-12
-    Architecture Expert   :2024-01, 2025-11
-```
+<table>
+<tr>
+<td align="center" width="20%">
+<strong>06/2023</strong><br/>
+📚 Educational Platform
+</td>
+<td align="center" width="20%">
+<strong>03/2024</strong><br/>
+🛒 E-commerce Project
+</td>
+<td align="center" width="20%">
+<strong>09/2024</strong><br/>
+🎓 Graduation Project
+</td>
+<td align="center" width="20%">
+<strong>03/2025</strong><br/>
+⚽ Sports Academy
+</td>
+<td align="center" width="20%">
+<strong>06/2025</strong><br/>
+⚖️ AARL Company
+</td>
+</tr>
+<tr>
+<td align="center" colspan="5">
+<img src="https://img.shields.io/badge/01/2025-Present-Active-success?style=for-the-badge"/>
+<br/>
+<strong>🚛 Ahmed Bin Mohamed Al Mousa Company</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="50"> Education & Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 **Education**
+
+<table>
+<tr>
+<td width="30%">
+<img src="https://img.icons8.com/fluency/96/university.png" width="60"/>
+</td>
+<td width="70%">
+<strong>Faculty of Computers and Artificial Intelligence</strong><br/>
+<sub>Helwan University</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/degree.png" width="60"/>
+</td>
+<td>
+<strong>Bachelor of Science</strong><br/>
+<sub>Computer Science</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/calendar.png" width="60"/>
+</td>
+<td>
+<strong>Graduation Date</strong><br/>
+<sub>June 2025</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/star.png" width="60"/>
+</td>
+<td>
+<strong>Grade</strong><br/>
+<sub>Very Good</sub>
+</td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏆 **Training & Certifications**
+
+<table>
+<tr>
+<td width="30%">
+<img src="https://img.icons8.com/fluency/96/certificate.png" width="60"/>
+</td>
+<td width="70%">
+<strong>Certified .NET Developer</strong><br/>
+<sub>Core concepts of .NET, ASP.NET Core, and Web API development</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
+</td>
+<td>
+<strong>Advanced C# Programming</strong><br/>
+<sub>Advanced C# concepts including LINQ, async/await, and design patterns</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌍 **Languages**
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/🇪🇬_Arabic-Native-4CAF50?style=for-the-badge"/>
+</td>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/🇬🇧_English-Intermediate-2196F3?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 </div>
 
