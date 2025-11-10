@@ -1438,17 +1438,7 @@ A comprehensive REST API for managing sports academies, including player registr
 </a>
 <a href="mailto:abdullah.mahmoud.abdelmohsen@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://stackoverflow.com">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
-</a>
-<a href="https://twitter.com">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://dev.to">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-</a>
-
+</a>  
 <br/><br/>
 
 ### 💌 **Quick Response Time**
@@ -1525,5 +1515,6 @@ A comprehensive REST API for managing sports academies, including player registr
 <img src="https://komarev.com/ghpvc/?username=abdullahmahmoud560&label=Total%20Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 
 </div>
+
 
 
