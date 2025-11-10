@@ -1107,13 +1107,15 @@ Developed a RESTful API for online learning using ASP.NET Core Web API and Entit
 
 <table>
 <tr>
-<td align="center">
+<td width="30%" align="center">
 <img src="https://img.shields.io/badge/🇪🇬_Arabic-Native-4CAF50?style=for-the-badge"/>
 </td>
-</tr>
-<tr>
-<td align="center">
+<td width="30%" align="center">
 <img src="https://img.shields.io/badge/🇬🇧_English-Intermediate-2196F3?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
 </td>
 </tr>
 </table>
@@ -1497,6 +1499,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
