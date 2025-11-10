@@ -53,99 +53,345 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> About Me - The Code Behind The Developer
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> About Me - Meet The Developer
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 👨‍💻 **Who Am I?**
+### 👨‍💻 **Personal Info**
 
-```csharp
-namespace Developer.Profile
-{
-    public class AbdullahMahmoud : IBackendArchitect
-    {
-        // Personal Info
-        public string FullName => "Abdullah Mahmoud";
-        public string Title => "Senior Backend Developer";
-        public string Location => "📍 Cairo, Egypt";
-        public string Passion => "Crafting Scalable Systems";
-        
-        // Core Competencies
-        public List<string> SuperPowers => new()
-        {
-            "🎯 ASP.NET Core Mastery",
-            "🔐 Security & Authentication",
-            "🏗️ Clean Architecture",
-            "⚡ High-Performance APIs",
-            "🧠 Problem Solving"
-        };
-        
-        // Current Mission
-        public async Task<string> GetCurrentFocus()
-        {
-            return await Task.FromResult(
-                "Building enterprise-grade, " +
-                "secure, and maintainable systems " +
-                "that scale to millions of users!"
-            );
-        }
-        
-        // Code Philosophy
-        public string[] Principles => new[]
-        {
-            "Clean Code > Clever Code",
-            "Security First, Always",
-            "Test It or Regret It",
-            "Document Everything"
-        };
-    }
-}
-```
+<table>
+<tr>
+<td width="30%">
+<img src="https://img.icons8.com/fluency/96/user-male-circle.png" width="60"/>
+</td>
+<td width="70%">
+<strong>Name</strong><br/>
+<sub>Abdullah Mahmoud</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/briefcase.png" width="60"/>
+</td>
+<td>
+<strong>Role</strong><br/>
+<sub>Senior Backend Developer</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/marker.png" width="60"/>
+</td>
+<td>
+<strong>Location</strong><br/>
+<sub>📍 Cairo, Egypt</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/company.png" width="60"/>
+</td>
+<td>
+<strong>Company</strong><br/>
+<sub>Ahmed Bin Mohamed Al Mousa Co.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎯 **Core Competencies**
+
+<img src="https://img.shields.io/badge/🎯-ASP.NET_Core_Mastery-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔐-Security_&_Auth-FF0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏗️-Clean_Architecture-00D9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡-High_Performance_APIs-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠-Problem_Solving-7B42FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💾-Database_Expert-4CAF50?style=for-the-badge"/>
 
 </td>
 <td width="50%" valign="top">
 
+### 🚀 **Current Focus**
+
+<table>
+<tr>
+<td width="30%">
+<img src="https://img.icons8.com/fluency/96/work.png" width="60"/>
+</td>
+<td width="70%">
+<strong>Working On</strong><br/>
+<sub>Customs Clearance System</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/book.png" width="60"/>
+</td>
+<td>
+<strong>Learning</strong><br/>
+<sub>.NET 9 Features & Microservices</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
+</td>
+<td>
+<strong>Languages</strong><br/>
+<sub>C#, SQL, JavaScript, Python</sub>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.icons8.com/fluency/96/collaboration.png" width="60"/>
+</td>
+<td>
+<strong>Open To</strong><br/>
+<sub>Collaboration & Open Source</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💭 **Developer Mindset**
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/💻-Code_Like_Poetry-blueviolet?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/🔒-Security_First-red?style=for-the-badge&logo=security&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎨-Clean_Architecture-00D9FF?style=for-the-badge&logo=codacy&logoColor=white"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⚡-Performance_Matters-FFD700?style=for-the-badge&logo=lightning&logoColor=black"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100%">
 
-### 🎯 **Quick Facts**
+</td>
+</tr>
+</table>
 
-```yaml
-developer:
-  name: "Abdullah Mahmoud"
-  role: "Backend Developer"
-  company: "Ahmed Bin Mohamed Al Mousa Company"
-  location: "Cairo, Egypt"
-  
-languages:
-  primary: ["C#", "SQL"]
-  familiar: ["JavaScript", "Python"]
+<br/>
 
-current_status:
-  working_on: "Customs Clearance System"
-  learning: ".NET 9 Features"
-  collaborating_on: "Open Source Projects"
-  
-life_motto: >
-  "Code is poetry written in logic.
-   Make it beautiful, make it work,
-   make it scale."
+<div align="center">
 
-fun_fact: 
-  "I debug with coffee ☕ and 
-   deploy with confidence 🚀"
-```
+### ⚡ **My Development Principles**
 
-### 💭 **Dev Mindset**
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="80"/>
+<br/>
+<strong>Clean Code</strong>
+<br/>
+<sub>Readable > Clever</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/shield.png" width="80"/>
+<br/>
+<strong>Security First</strong>
+<br/>
+<sub>Never Compromise</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/test-passed.png" width="80"/>
+<br/>
+<strong>Test Everything</strong>
+<br/>
+<sub>Quality Assurance</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/documents.png" width="80"/>
+<br/>
+<strong>Document Well</strong>
+<br/>
+<sub>Future-Proof Code</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/💻_Code-Like_Poetry-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔒_Security-Always_First-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎨_Design-Clean_Architecture-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_Performance-Optimize_Everything-yellow?style=for-the-badge"/>
+<br/>
 
+> 💡 **Life Motto:** *"Code is poetry written in logic. Make it beautiful, make it work, make it scale."*
+> 
+> ☕ **Fun Fact:** I debug with coffee and deploy with confidence! 🚀
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 **What Drives Me Forward?**
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600">
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💭 **My Philosophy**
+
+> **"Code is not just instructions for machines—it's communication with future developers, including your future self."**
+
+<br/>
+
+<table>
+<tr>
+<td width="20%" align="center">
+<img src="https://img.icons8.com/color/96/code.png" width="50"/>
+</td>
+<td width="80%">
+<strong>🎨 Clean Code Advocate</strong><br/>
+<sub>I believe in writing code that reads like poetry. Every function, every variable name, every comment matters.</sub>
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">
+<img src="https://img.icons8.com/color/96/security-checked.png" width="50"/>
+</td>
+<td width="80%">
+<strong>🔐 Security First Mindset</strong><br/>
+<sub>Security isn't a feature—it's a foundation. Every API endpoint I build is fortified from the ground up.</sub>
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">
+<img src="https://img.icons8.com/color/96/speed.png" width="50"/>
+</td>
+<td width="80%">
+<strong>⚡ Performance Obsessed</strong><br/>
+<sub>Milliseconds matter. I optimize queries, cache intelligently, and ensure scalability at every level.</sub>
+</td>
+</tr>
+<tr>
+<td width="20%" align="center">
+<img src="https://img.icons8.com/color/96/learning.png" width="50"/>
+</td>
+<td width="80%">
+<strong>📚 Lifelong Learner</strong><br/>
+<sub>Technology evolves, and so do I. Always exploring new patterns, tools, and best practices.</sub>
+</td>
+</tr>
+</table>
+
+</td>
+<td width="50%" valign="top">
+
+### 💪 **Expertise Breakdown**
+
+<br/>
+
+**🎯 ASP.NET Core APIs**
+<br/>
+![](https://geps.dev/progress/100?dangerColor=7B42FF&warningColor=00D9FF&successColor=00D9FF)
+<br/>
+<sub>⭐⭐⭐⭐⭐ Master Level | 15+ Projects</sub>
+
+<br/>
+
+**💾 Entity Framework Core**
+<br/>
+![](https://geps.dev/progress/95?dangerColor=7B42FF&warningColor=00D9FF&successColor=00D9FF)
+<br/>
+<sub>⭐⭐⭐⭐⭐ Advanced | 12+ Projects</sub>
+
+<br/>
+
+**🏗️ Clean Architecture**
+<br/>
+![](https://geps.dev/progress/90?dangerColor=7B42FF&warningColor=00D9FF&successColor=7B42FF)
+<br/>
+<sub>⭐⭐⭐⭐☆ Expert | 10+ Projects</sub>
+
+<br/>
+
+**🔒 Security & Authentication**
+<br/>
+![](https://geps.dev/progress/100?dangerColor=FF6B6B&warningColor=FFA500&successColor=00D9FF)
+<br/>
+<sub>⭐⭐⭐⭐⭐ Master Level | 8+ Projects</sub>
+
+<br/>
+
+**🗄️ Database Design**
+<br/>
+![](https://geps.dev/progress/95?dangerColor=7B42FF&warningColor=00D9FF&successColor=00D9FF)
+<br/>
+<sub>⭐⭐⭐⭐⭐ Advanced | 20+ Projects</sub>
+
+<br/>
+
+**🐳 Docker & DevOps**
+<br/>
+![](https://geps.dev/progress/75?dangerColor=7B42FF&warningColor=FFA500&successColor=00D9FF)
+<br/>
+<sub>⭐⭐⭐⭐☆ Proficient | 5+ Projects</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 🎯 **What I Bring to the Table**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+<br/>
+<strong>Problem Solver</strong>
+<br/>
+<sub>Turning complex challenges into elegant solutions</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+<br/>
+<strong>Team Player</strong>
+<br/>
+<sub>Collaborative coding & knowledge sharing</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+<br/>
+<strong>Quality Focus</strong>
+<br/>
+<sub>Testing, documentation & best practices</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
+<br/>
+<strong>Fast Delivery</strong>
+<br/>
+<sub>Agile mindset with quality results</sub>
 </td>
 </tr>
 </table>
@@ -154,32 +400,7 @@ fun_fact:
 
 <br/>
 
-<div align="center">
-
-### 🚀 **What Drives Me?**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-> 💡 **"I don't just write code—I architect solutions that solve real-world problems."**
-> 
-> From securing authentication systems with JWT to designing scalable microservices, 
-> I'm passionate about turning complex business requirements into elegant, maintainable code.
-> Every line I write is a commitment to quality, security, and performance.
-
-<div align="center">
-
-| 🎯 **Specialization** | 💪 **Strength Level** | 🔥 **Projects** |
-|:---:|:---:|:---:|
-| ASP.NET Core APIs | ████████████ 100% | 15+ |
-| Entity Framework | ███████████░ 95% | 12+ |
-| Clean Architecture | ███████████░ 90% | 10+ |
-| Security & Auth | ████████████ 100% | 8+ |
-| Database Design | ███████████░ 95% | 20+ |
-| Docker & CI/CD | ████████░░░░ 75% | 5+ |
-
-</div>
+> 💡 **Mission Statement:** *"I don't just write code—I architect scalable solutions that solve real-world problems. From securing authentication systems with JWT to designing enterprise-grade microservices, I'm passionate about turning complex business requirements into elegant, maintainable, and performant code that stands the test of time."*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
