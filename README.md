@@ -426,12 +426,9 @@
 </div>
 
 <br/>
-
-> 💡 **Mission Statement:** *"I don't just write code—I architect scalable solutions that solve real-world problems. From securing authentication systems with JWT to designing enterprise-grade microservices, I'm passionate about turning complex business requirements into elegant, maintainable, and performant code that stands the test of time."*
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> Tech Arsenal - My Weapons of Choice
+## Tech Arsenal - My Weapons of Choice
 
 <div align="center">
 
@@ -644,13 +641,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"> Professional Journey - Building the Future
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
-
-</div>
-
 <table>
 <tr>
 <td width="30%" align="center" valign="top">
@@ -1117,15 +1107,13 @@ Developed a RESTful API for online learning using ASP.NET Core Web API and Entit
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center">
 <img src="https://img.shields.io/badge/🇪🇬_Arabic-Native-4CAF50?style=for-the-badge"/>
 </td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/🇬🇧_English-Intermediate-2196F3?style=for-the-badge"/>
-</td>
 </tr>
-</table>
-
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🇬🇧_English-Intermediate-2196F3?style=for-the-badge"/>
 </td>
 </tr>
 </table>
@@ -1509,6 +1497,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
