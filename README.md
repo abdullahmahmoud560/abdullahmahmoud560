@@ -156,7 +156,7 @@
 </td>
 <td>
 <strong>Languages</strong><br/>
-<sub>C#, SQL, JavaScript, Python</sub>
+<sub>C# | SQL | Python | ASP.NET Core | Entity Framework Core | JWT | LINQ</sub>
 </td>
 </tr>
 <tr>
@@ -1510,6 +1510,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
