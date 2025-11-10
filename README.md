@@ -6,7 +6,6 @@
 <br/>
 
 <!-- Holographic Typing Animation -->
-<!-- Holographic Typing Animation -->
 <div style="margin-top: -20px; text-align:center;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%E2%9A%A1+Welcome+to+My+Digital+Universe!+%E2%9A%A1;%F0%9F%9A%80+Building+Enterprise-Grade+APIs;%F0%9F%8E%AF+ASP.NET+Core+%7C+Onion+Architecture+%7C+SOLID;%F0%9F%94%A5+Turning+Coffee+into+Scalable+Code!" alt="Typing SVG" />
@@ -446,7 +445,7 @@
 <br><sub>Primary Language</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://techstack-generator.vercel.app/dotnet-icon.svg" alt=".NET" width="65" height="65"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="65" height="65" />
 <br><strong>.NET 8/9</strong>
 <br><sub>Core Framework</sub>
 </td>
@@ -1510,6 +1509,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
