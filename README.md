@@ -387,48 +387,8 @@
 <br/>
 
 <div align="center">
-
-### 🎯 **What I Bring to the Table**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
-<br/>
-<strong>Problem Solver</strong>
-<br/>
-<sub>Turning complex challenges into elegant solutions</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
-<br/>
-<strong>Team Player</strong>
-<br/>
-<sub>Collaborative coding & knowledge sharing</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
-<br/>
-<strong>Quality Focus</strong>
-<br/>
-<sub>Testing, documentation & best practices</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
-<br/>
-<strong>Fast Delivery</strong>
-<br/>
-<sub>Agile mindset with quality results</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-## Tech Arsenal - My Weapons of Choice
+  
+## Tech Stack
 
 <div align="center">
 
@@ -474,7 +434,7 @@
 
 <br/>
 
-### 🗄️ **Database Mastery**
+### 🗄️ **Database**
 
 <table>
 <tr>
@@ -1160,7 +1120,7 @@ An intelligent academic guidance platform that leverages AI to help students mak
 
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI_Integration-FF6F61?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 #### ✨ **Key Features**
 
@@ -1499,6 +1459,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
