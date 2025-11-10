@@ -245,27 +245,28 @@
 
 <table>
 <tr>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/🧩_Problem_Solving-Analytical_Thinking-512BD4?style=flat-square"/>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🧩_Problem_Solving-Analytical_Thinking-512BD4?style=for-the-badge&logoColor=white&labelColor=6B5B95" height="80"/>
 </td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/🤝_Team_Collaboration-Effective_Communication-00D9FF?style=flat-square"/>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🤝_Team_Collaboration-Effective_Communication-00D9FF?style=for-the-badge&logoColor=white&labelColor=0099CC" height="80"/>
 </td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/💬_Communication-Clear_&_Concise-7B42FF?style=flat-square"/>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/💬_Communication-Clear_&_Concise-7B42FF?style=for-the-badge&logoColor=white&labelColor=5D3FD3" height="80"/>
 </td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/⏰_Time_Management-Efficient-4CAF50?style=flat-square"/>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⏰_Time_Management-Efficient-4CAF50?style=for-the-badge&logoColor=white&labelColor=388E3C" height="80"/>
 </td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/🔄_Adaptability-Flexible-FF6B6B?style=flat-square"/>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🔄_Adaptability-Flexible-FF6B6B?style=for-the-badge&logoColor=white&labelColor=E53935" height="80"/>
 </td>
-<td align="center" width="16.66%">
-<img src="https://img.shields.io/badge/👁️_Attention_to_Detail-Precise-FFA500?style=flat-square"/>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/👁️_Attention_to_Detail-Precise-FFA500?style=for-the-badge&logoColor=white&labelColor=FF9800" height="80"/>
 </td>
 </tr>
 </table>
-
 </div>
 
 <br/>
@@ -1423,6 +1424,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
