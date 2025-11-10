@@ -1410,42 +1410,6 @@ A comprehensive REST API for managing sports academies, including player registr
 
 <div align="center">
 
-## 💖 **Support My Work**
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
-<br/><br/>
-
-### ⭐ **Show Some Love**
-
-<p>If you find my work helpful, consider giving a ⭐ to my repositories!</p>
-<p>It helps me stay motivated and continue building awesome projects 🚀</p>
-
-<br/>
-
-<a href="https://github.com/abdullahmahmoud560?tab=repositories">
-<img src="https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<br/><br/>
-
-### 📊 **Profile Stats**
-
-<img src="https://img.shields.io/github/followers/abdullahmahmoud560?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/abdullahmahmoud560?label=Total%20Stars&style=social"/>
-
-<br/><br/>
-
-<br/><br/>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/>
-
-<p>Every visitor makes my day! Thanks for stopping by 😊</p>
-<p><strong>Let's connect and create something extraordinary together! 🚀</strong></p>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 
 </div>
@@ -1459,6 +1423,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
