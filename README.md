@@ -6,9 +6,12 @@
 <br/>
 
 <!-- Holographic Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%E2%9A%A1+Welcome+to+My+Digital+Universe!+%E2%9A%A1;%F0%9F%9A%80+Building+Enterprise-Grade+APIs;%F0%9F%8E%AF+ASP.NET+Core+%7C+Clean+Architecture+%7C+SOLID;%F0%9F%94%A5+Turning+Coffee+into+Scalable+Code!" alt="Typing SVG" />
-</a>
+<!-- Holographic Typing Animation -->
+<div style="margin-top: -20px; text-align:center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=2500&pause=800&color=00D9FF&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%E2%9A%A1+Welcome+to+My+Digital+Universe!+%E2%9A%A1;%F0%9F%9A%80+Building+Enterprise-Grade+APIs;%F0%9F%8E%AF+ASP.NET+Core+%7C+Clean+Architecture+%7C+SOLID;%F0%9F%94%A5+Turning+Coffee+into+Scalable+Code!" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
@@ -1513,6 +1516,7 @@ A comprehensive REST API for managing sports academies, including player registr
 <br/>
 
 </div>
+
 
 
 
